@@ -1,2 +1,1 @@
-# GuidedDataGeneration
-Generating Samples to Question Trained Models
+# Guided Data Generation for Understanding Model Behavior
