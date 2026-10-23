@@ -1,0 +1,20 @@
+name: exvd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib
+  - jax
+  - jaxlib
+  - scikit-learn
+  - optax
+  - flax
+  - tensorflow-datasets
+  - datasets
+  - wandb
+  - xgboost
+  - seaborn
+  - jaxtyping
+  - utf8proc
+prefix: /Users/erenmehmetkiral/Documents/Codes/miniconda3/envs/exvd
